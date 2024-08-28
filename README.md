@@ -1,7 +1,8 @@
 <div style="display: inline-block;">
 <img width 100% src ="https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif?cid=790b7611fum1qsgjj3xprjy22o6vqz35bsadk752f1vqrgfi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+  
 <br>
-  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&left=true&left=true&random=false&width=500&lines=My+name+is+Ana Livia!;I+am+15+years+old;Welcome+to+my+profile!" alt="Typing SVG">
+  <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=9400D3&left=true&left=true&random=false&width=500&lines=My+name+is+Ana Livia!+かわいい;I+am+15+years+old;Welcome+to+my+profile!" alt="Typing SVG">
 <br>
 <img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=AnaLivia19&show_icons=true&theme=dracula">
   <img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaLivia19&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=021dfe"/>
