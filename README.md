@@ -4,7 +4,8 @@
 <br>
   <img align="left" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=f868de&left=true&left=true&random=false&width=500&lines=My+name+is+Ana Livia!+🌸;I+am+15+years+old;Welcome+to+my+profile!" alt="Typing SVG">
 <br>
-<img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=AnaLivia19&show_icons=false&theme=dark">
+<img  width 50% align="right" src="https://github-readme-stats.vercel.app/api?username=AnaLivia19&show_icons=false&theme=dracula">
+<img alling="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofismoura&layout=compact&hide_border=true&bg_color=0d1117&icon_color=7203F7FF&text_color=c9d1d9&title_color=f868de"/>
 </div>
 <br>
 <div>
