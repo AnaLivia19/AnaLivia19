@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-<img width 100% src ="https://i.redd.it/on-the-day-after-the-12th-anniversary-of-bti-i-cant-help-v0-eg9quxqqfm6g1.gif">
+<img width 100% src ="">
 <br>
 <br>
 <div>
