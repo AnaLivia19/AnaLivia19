@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-<img width 100% src ="https://media.giphy.com/media/ZYZEFjLzOV3fq/giphy.gif?cid=790b7611fum1qsgjj3xprjy22o6vqz35bsadk752f1vqrgfi&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+<img width 100% src =https://tenor.com/view/67-67-kid-edit-analog-horror-phonk-gif-3349401281762803381>
 <br>
 <br>
 <div>
