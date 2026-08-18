@@ -1,5 +1,5 @@
 <div style="display: inline-block;">
-<img width 100% src ="">
+<img width="734" height="193" alt="Image" src="https://github.com/user-attachments/assets/95aebaed-e066-4ed7-b74a-12ece60c1600" />
 <br>
 <br>
 <div>
@@ -29,5 +29,4 @@ IDEs:
 </div>
 <br> 
 <div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=f868de&section=footer"/>
 </div>
